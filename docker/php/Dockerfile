@@ -10,15 +10,13 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 RUN composer --version
 
 
-#RUN rm /etc/localtime
-#RUN ln -s /usr/share/zoneinfo/Europe/Paris /etc/localtime
+
 ENV TZ="Europe/Paris"
 RUN echo $TZ | tee /etc/timezone
 
 RUN "date"
 
-#ADD symfony.ini /etc/php5/cli/conf.d/
-
+RUN usermod -u 1000 www-data
 
 RUN docker-php-ext-install pdo pdo_mysql
 
