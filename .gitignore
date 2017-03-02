@@ -3,3 +3,4 @@ docker/logs/symfony/
 symfony/.idea/
 symfony/app/logs/
 .idea/
+/logs/*/*

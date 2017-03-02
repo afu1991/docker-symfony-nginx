@@ -18,14 +18,12 @@ services:
             - db
         volumes:
             - ../symfony:/var/www/symfony
-            - ./logs/symfony:/var/www/symfony/app/logs
+            - ../logs/symfony:/var/www/symfony/app/logs
     nginx:
         build: nginx
         ports:
             - 80:80
         depends_on:
             - php
-        volumes_from:
-            - php
         volumes:
-            - ./logs/nginx/:/var/log/nginx
+            - ../logs/nginx/:/var/log/nginx
