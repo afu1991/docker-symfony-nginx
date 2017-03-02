@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 docker/logs/symfony/
 symfony/.idea/
-symfony/app/logs/
+symfony
 .idea/workspace.xml
 /logs/*/*
