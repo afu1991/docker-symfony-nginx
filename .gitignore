@@ -2,5 +2,5 @@
 docker/logs/symfony/
 symfony/.idea/
 symfony/app/logs/
-.idea/
+.idea/workspace.xml
 /logs/*/*

@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50c75b9e-444f-4512-95e0-9023ae62ef59" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docker/logs/nginx/error.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docker/logs/nginx/symfony_access.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docker/logs/nginx/symfony_error.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/docker-compose.yml" afterPath="$PROJECT_DIR$/docker/docker-compose.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/nginx/Dockerfile" afterPath="$PROJECT_DIR$/docker/nginx/Dockerfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docker/nginx/symfony.conf" afterPath="$PROJECT_DIR$/docker/nginx/symfony.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/symfony/src/AppBundle/Controller/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/symfony/web/app_dev.php" afterPath="$PROJECT_DIR$/symfony/web/app_dev.php" />
-    </list>
+    <list default="true" id="50c75b9e-444f-4512-95e0-9023ae62ef59" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +106,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1991" />
-    <option name="y" value="-1056" />
+    <option name="y" value="24" />
     <option name="width" value="1849" />
     <option name="height" value="1056" />
   </component>
@@ -250,15 +238,15 @@
       <workItem from="1485419066171" duration="694000" />
       <workItem from="1485425158311" duration="202000" />
       <workItem from="1488446973139" duration="6639000" />
-      <workItem from="1488468117761" duration="2534000" />
+      <workItem from="1488468117761" duration="2791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16628000" />
+    <option name="totallyTimeSpent" value="16885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1991" y="-1056" width="1849" height="1056" extended-state="6" />
+    <frame x="1991" y="24" width="1849" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26067665" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
