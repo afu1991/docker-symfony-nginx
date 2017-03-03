@@ -2,4 +2,9 @@
 docker/logs/symfony/
 symfony/.idea/
 
-/.idea/*
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/docker-symfony-nginx.iml
+
+/logs/*/*
