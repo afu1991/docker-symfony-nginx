@@ -1,10 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-docker/logs/symfony/
-symfony/.idea/
 
- **/.idea/workspace.xml
- **/.idea/vcs.xml
- **/.idea/modules.xml
- **/.idea/docker-symfony-nginx.iml
-
+.idea/
 /logs/*/*
