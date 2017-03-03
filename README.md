@@ -13,4 +13,11 @@ symfony $ docker-compose up -d
 symfony $ docker exec -it docker_php_1 bash
 symfony $ composer install
 ```
-Enjoy :)
+OR
+```bash
+symfony $ . docker/ops-setup.sh
+symfony $ up
+symfony $ php_exec
+symfony $ composer install
+symfony $ down
+```
